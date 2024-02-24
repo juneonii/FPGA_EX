@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Pj_0_Timer3_app" location="C:/Users/Chajunwon/FPGA_Ex/Project_0_Watch/Pj_0_Timer3/Pj_0_Timer3_vitis/Pj_0_Timer3_app" platform="C:/Users/Chajunwon/FPGA_Ex/Project_0_Watch/Pj_0_Timer3/Pj_0_Timer3_vitis/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm" platformUID="xilinx:arty-z7-10::0.0(custom)" systemProject="Pj_0_Timer3_app_system" sysConfig="design_1_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="9269f8db37c0f7da0a05058089c77d0c">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.543138115">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1209457846" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

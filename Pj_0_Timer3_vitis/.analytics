@@ -1,0 +1,13 @@
+timestamp=[2024-02-16 02:39:51], mode=WORKBENCH_START, duration=0:00:10.461, duration_ms=10461, data={}
+timestamp=[2024-02-16 02:39:52], mode=WORKBENCH_UI_INIT, duration=0:00:01.175, duration_ms=1175, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-02-16 02:39:53], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.126, duration_ms=126, data={}
+timestamp=[2024-02-16 02:41:02], mode=APP_CREATION, duration=0:00:33.389, duration_ms=33389, data={name=Pj_0_Timer3_app, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2024-02-16 02:42:43], mode=PLATFORM_GENERATION, duration=0:00:59.715, duration_ms=59715, data={name=design_1_wrapper}
+timestamp=[2024-02-16 02:42:48], mode=BUILD, duration=0:00:04.857, duration_ms=4857, data={name=Pj_0_Timer3_app, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 15:42:56], mode=WORKBENCH_START, duration=0:00:43.267, duration_ms=43267, data={}
+timestamp=[2024-02-24 15:42:58], mode=WORKBENCH_UI_INIT, duration=0:00:01.999, duration_ms=1999, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Pj_0_Timer3_app,Pj_0_Timer3_app_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-24 15:43:00], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.649, duration_ms=649, data={}
+timestamp=[2024-02-24 15:46:08], mode=BUILD, duration=0:00:06.827, duration_ms=6827, data={name=Pj_0_Timer3_app, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 16:03:40], mode=WORKBENCH_START, duration=0:00:17.947, duration_ms=17947, data={}
+timestamp=[2024-02-24 16:03:42], mode=WORKBENCH_UI_INIT, duration=0:00:01.964, duration_ms=1964, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Pj_0_Timer3_app,Pj_0_Timer3_app_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-24 16:03:45], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.333, duration_ms=333, data={}

@@ -1,0 +1,9 @@
+timestamp=[2024-02-24 16:20:21], mode=WORKBENCH_START, duration=0:00:09.799, duration_ms=9799, data={}
+timestamp=[2024-02-24 16:20:22], mode=WORKBENCH_UI_INIT, duration=0:00:00.973, duration_ms=973, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-02-24 16:20:23], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.159, duration_ms=159, data={}
+timestamp=[2024-02-24 16:21:52], mode=APP_CREATION, duration=0:00:46.083, duration_ms=46083, data={name=0_Pj_0_Timer3_app, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2024-02-24 16:23:35], mode=PLATFORM_GENERATION, duration=0:00:55.153, duration_ms=55153, data={name=design_1_wrapper}
+timestamp=[2024-02-24 16:23:39], mode=BUILD, duration=0:00:04.297, duration_ms=4297, data={name=0_Pj_0_Timer3_app, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 00:16:55], mode=WORKBENCH_START, duration=0:00:31.959, duration_ms=31959, data={}
+timestamp=[2024-02-25 00:16:57], mode=WORKBENCH_UI_INIT, duration=0:00:02.352, duration_ms=2352, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=0_Pj_0_Timer3_app,0_Pj_0_Timer3_app_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-25 00:16:58], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.449, duration_ms=449, data={}
